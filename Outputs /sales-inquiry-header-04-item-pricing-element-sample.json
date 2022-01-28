@@ -1,6 +1,6 @@
 {
-	"cursor": "/Users/latona2/bitbucket/sap-api-integrations-sales-inquiry-reads/SAP_API_Caller/caller.go#L172",
-	"function": "sap-api-integrations-sales-inquiry-reads/SAP_API_Caller.(*SAPAPICaller).Item",
+	"cursor": "/Users/latona2/bitbucket/sap-api-integrations-sales-inquiry-reads/SAP_API_Caller/caller.go#L80",
+	"function": "sap-api-integrations-sales-inquiry-reads/SAP_API_Caller.(*SAPAPICaller).Header",
 	"level": "INFO",
 	"message": [
 		{
@@ -274,5 +274,5 @@
 			"ConditionIsManuallyChanged": false
 		}
 	],
-	"time": "2022-01-27T16:25:39.90738+09:00"
+	"time": "2022-01-27T22:15:36+09:00"
 }
